@@ -26,6 +26,34 @@
 <br>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Davi-Britto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Davi-Britto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<br>
+
+<h2 align="center">🚀 Projetos em Destaque</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛠️ <a href="https://github.com/naum-agendamentos/naum-api-rest">NA.UM API Rest</a></h3>
+      <p>Sistema completo para agendamento de barbearias</p>
+      <img src="https://img.shields.io/github/stars/naum-agendamentos/naum-api-rest?style=social" />
+      <img src="https://img.shields.io/github/forks/naum-agendamentos/naum-api-rest?style=social" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🎞️ <a href="https://github.com/Davi-Britto/Projeto-Individual">Projeto Pessoal</a></h3>
+      <p>Projeto baseado no filme: Homem-Aranha no Aranhaverso</p>
+      <img src="https://img.shields.io/github/stars/Davi-Britto/Projeto-Individual?style=social" />
+      <img src="https://img.shields.io/github/forks/Davi-Britto/Projeto-Individual?style=social" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
@@ -45,36 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
 </div>
 
-###
-
-<h2 align="center">🚀 Projetos em Destaque</h3>
-
-###
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🛠️ <a href="https://github.com/naum-agendamentos/naum-api-rest">NA.UM API Rest</a></h3>
-      <p>Sistema completo para agendamento de barbearias</p>
-      <img src="https://img.shields.io/github/stars/naum-agendamentos/naum-api-rest?style=social" />
-      <img src="https://img.shields.io/github/forks/naum-agendamentos/naum-api-rest?style=social" />
-    </td>
-    <td align="center" width="50%">
-      <h3>🎞️ <a href="https://github.com/Davi-Britto/Projeto-Individual">Projeto Pessoal</a></h3>
-      <p>Projeto baseado no filme: Homem-Aranha no Aranhaverso</p>
-      <img src="https://img.shields.io/github/stars/Davi-Britto/Projeto-Individual?style=social" />
-      <img src="https://img.shields.io/github/forks/Davi-Britto/Projeto-Individual?style=social" />
-    </td>
-  </tr>
-</table>
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davi-Britto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Davi-Britto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davi-Britto/Davi-Britto/output/pacman-contribution-graph-dark.svg">
@@ -82,10 +81,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Davi-Britto/Davi-Britto/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Davi-Britto.Davi-Britto&left_color=black&right_color=dodgerblue&left_text=Contagem%20de%20visitantes"  />
 </div>
-
-###
