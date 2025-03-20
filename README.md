@@ -1,5 +1,8 @@
 <img src='https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Olá!%20Me%20Chamo%20Davi&textBg=false&fontColor=FFFFFF&animation=twinkling' width='100%'>
 
+
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Back-End.;&center=true&vCenter=true&size=45&width=1000&color=FFFFFF&font='Poppins')
+
 <h2>🎓 Sobre Mim</h2>
 
 <p>Sou um Desenvolvedor Back-end, Graduado em Análise e Desenvolvimento de Sistemas pela SPTECH, com experiência em Java e Spring Boot. Apaixonado por tecnologia, proativo e sempre buscando aprimorar minhas habilidades técnicas. Tenho experiência em projetos acadêmicos e profissionais, focando em soluções eficientes e inovadoras.</p>
